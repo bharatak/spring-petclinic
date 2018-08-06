@@ -53,6 +53,7 @@ public class Vet extends Person {
         if (this.specialties == null) {
             this.specialties = new HashSet<>();
         }
+        System.out.println("hiiiiiiiiiiiiii");
         return this.specialties;
     }
 
