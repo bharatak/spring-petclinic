@@ -161,7 +161,7 @@
                 </execution>
             </executions>
             <configuration>
-                <failsOnError>true</failsOnError>
+                <failsOnError>false</failsOnError>
                 <consoleOutput>true</consoleOutput>
             </configuration>
         </plugin>
