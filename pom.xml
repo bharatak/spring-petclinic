@@ -185,9 +185,6 @@
             <executions>
                 <execution>
                     <phase>process-sources</phase>
-                    <goals>
-                        <goal>check</goal>
-                    </goals>
                 </execution>
             </executions>
             <configuration>
